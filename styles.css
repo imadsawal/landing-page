@@ -10,6 +10,28 @@
     height:400px;;
 }
 
+.section-3 {
+    background-color: #1F2937;
+    font-family: 'roboto';
+    height:400px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section-4 {
+    background-color: #dce4f0;
+    font-family: 'roboto';
+    height:400px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 header {
     color:#EBE7EB;
     display:flex;
@@ -46,6 +68,43 @@ p {
     font-size:30px;
     color:#1F2937;
     text-align: center;
+}
+
+
+.quote-heading {
+    margin:0 20px;
+    padding-top: 20px;
+    font-size:30px;
+    color:#EBE7EB;
+    text-align: center;
+}
+
+.quote-person {
+    display:flex;
+    margin:0 20px;
+    padding-top: 20px;
+    font-size:20px;
+    color:#adb0b9;
+    text-align: center;
+}
+
+.contact-heading {
+        margin:0 20px;
+        padding-top: 20px;
+        font-size:30px;
+        color:#1F2937;
+        text-align: center;    
+}
+
+.contact-x {
+    color:#1F2937;
+    font-weight:700;
+    font-size:25px;
+}
+
+.liam .contact-heading {
+    font-size:5px;
+    font-style: italic;
 }
 
 .content p {
